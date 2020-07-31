@@ -1,5 +1,21 @@
 
- # Love Running
- 
- ## A fully responsive website using CSS and HTML5
- ### Used to apply and demonstrate the HTML/CSS3 elements and concepts covered in Code Institute's Fundamentals Module Series
+<h1 align="center">Love Running Project</h1> 
+
+<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+
+[View the live project here.](https://codeinstitute.net)
+
+ #### A fully responsive website developed using CSS and HTML5.
+
+  ## &rarr; **About**
+
+The project was created to help demonstrate the HTML/CSS3 elements and concepts covered in Code Institute's Fundamentals Module Series.
+
+ ## &rarr; **Contact**
+
+```
+lucyjpjones@gmail.com
+```
+
+&copy;
+LucyJPJones 
