@@ -1,7 +1,7 @@
 
 <h1 align="center">Love Running Project</h1> 
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+<h2 align="center"><img src=assets/img/love-running.png></h2>
 
 [View the live project here.](https://codeinstitute.net)
 
